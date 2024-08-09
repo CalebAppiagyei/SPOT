@@ -1,0 +1,1 @@
+A geospatial game engine with in-built games, something I built from scratch during an internship. Made to be deployed on AWS, and uses Ionic for Android deployment. Will need GPS Logger app from FDroid. 
